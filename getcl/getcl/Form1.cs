@@ -25,7 +25,7 @@ namespace getcl
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            //Console.WriteLine("\u767b\u9646\u8d85\u65f6\uff0c\u8bf7\u91cd\u65b0\u767b\u9646\u3002");
+            Console.WriteLine("\u767b\u9646\u8d85\u65f6\uff0c\u8bf7\u91cd\u65b0\u767b\u9646\u3002");
         }
 
         private void Form1_Click(object sender, EventArgs e)
